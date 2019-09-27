@@ -1,0 +1,36 @@
+#home {
+    margin-left: auto;
+    margin-right: auto;
+    border: 15px solid gainsboro;
+    width: 800px;
+    font-size: 20px;
+
+}
+#profile {
+    float: left;
+    margin: 20px;
+}
+#img {
+    margin-left:600px;
+
+}
+#box1
+{
+    font-family: font-family: 'Noto Sans', sans-serif;;
+    font-size: 23px;
+    margin: 20px;
+    font-weight: 700;
+    border-bottom: 2px solid grey;
+    box-sizing: border-box;
+}
+
+p {
+    margin: 20px;
+}
+h1{
+    margin: 20px;
+}
+#time {
+    text-align: right;
+    font-weight: 600;
+}
