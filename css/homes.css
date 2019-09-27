@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Be Vietnam', sans-serif;
+    font-size: 28px;
+}
+h2{
+    font-size: 12px;
+    font-family: 'Be Vietnam', sans-serif;
+    color:gainsboro;
+}
+#home {
+    width: 800px;
+    height: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid lightsalmon;
+    box-shadow: 10px 5px 5px lightsalmon;
+    box-sizing: border-box;
+    background-image: url("../IMG/back.jpg");
+}
+#img {
+    width: 200px;
+    float: left;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-right:20px;
+}
+#profile {
+    width: 500px;
+    box-sizing: border-box;
+    font-family: 'Be Vietnam', sans-serif;
+    font-size: 14px;
+    float: left;
+}
+#blank{
+    width: 50px;
+    float: left;
+    margin-top: 30px;
+
+}
+
