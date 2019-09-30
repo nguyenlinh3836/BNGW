@@ -1,0 +1,286 @@
+body {
+    font-family: 'Be Vietnam', sans-serif;
+    font-size: 16px;
+}
+#img1 {
+    width: 200px;
+    float: left;
+}
+#home1 {
+    border: 2px solid grey;
+    box-shadow: 1px 1px 1px grey;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    height: 150px;
+    background-color: rgba(153,153,153,0.10);
+}
+#content1 {
+    width: 400px;
+    float: left;
+    height: 150px;
+}
+#from1 {
+    width: 200px;
+    float: left;
+    font-size: 20px;
+    position: relative;
+    overflow: hidden;
+    height: 100px;
+    box-sizing: border-box;
+    padding-left: 90px;
+   padding-top: 10px;
+}
+#discount1 {
+        line-height: 50px;
+        color: white;
+        position: absolute;
+        right: -33px;
+        top:-7px;
+        background-color: rgba(238,17,44,0.89);
+        text-align: center;
+        transform: rotate(45deg);
+        width: 100px;
+        font-size: 16px;
+}
+#mau1{
+    color: orange;
+    font-size: 20px;
+}
+#mau11{
+    color: orange;
+}
+#low1{
+    text-decoration: line-through;
+    font-size: 14px;
+}
+#view1{
+        color: floralwhite;
+        border-radius: 10%;
+        width: 70px;
+        background-color: orange;
+        text-align: center;
+        height: 30px;
+        margin-left: 680px;
+        margin-top: 100px;
+}
+
+
+
+
+#img2 {
+    width: 200px;
+    float: left;
+}
+#home2 {
+    border: 2px solid grey;
+    box-shadow: 1px 1px 1px grey;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    height: 150px;
+    background-color: rgba(153,153,153,0.10);
+}
+#content2 {
+    width: 400px;
+    float: left;
+    height: 150px;
+}
+#from2 {
+    width: 200px;
+    float: left;
+    font-size: 20px;
+    position: relative;
+    overflow: hidden;
+    height: 100px;
+    box-sizing: border-box;
+    padding-left: 90px;
+    padding-top: 10px;
+}
+#mau2{
+    color: lightcoral;
+    font-size: 20px;
+}
+#mau22{
+    color: lightcoral;
+}
+#view2{
+    color: floralwhite;
+    border-radius: 10%;
+    width: 70px;
+    background-color: rgba(238,57,9,0.64);
+    text-align: center;
+    height: 30px;
+    margin-left: 680px;
+    margin-top: 100px;
+}
+
+
+#img3 {
+    width: 200px;
+    float: left;
+}
+#home3 {
+    border: 2px solid grey;
+    box-shadow: 1px 1px 1px grey;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    height: 150px;
+}
+#content3 {
+    width: 400px;
+    float: left;
+    height: 150px;
+}
+#from3 {
+    width: 200px;
+    float: left;
+    font-size: 20px;
+    position: relative;
+    overflow: hidden;
+    height: 100px;
+    box-sizing: border-box;
+    padding-left: 90px;
+    padding-top: 10px;
+}
+
+#mau3{
+    color: forestgreen;
+    font-size: 20px;
+}
+#mau33{
+    color: forestgreen;
+}
+#low3{
+    text-decoration: line-through;
+    font-size: 14px;
+}
+#view3{
+    color: floralwhite;
+    border-radius: 10%;
+    width: 70px;
+    background-color: forestgreen;
+    text-align: center;
+    height: 30px;
+    margin-left: 680px;
+    margin-top: 100px;
+}
+#discount3 {
+    line-height: 50px;
+    color: white;
+    position: absolute;
+    right: -33px;
+    top:-7px;
+    background-color: rgba(238,17,44,0.89);
+    text-align: center;
+    transform: rotate(45deg);
+    width: 100px;
+    font-size: 16px;
+}
+
+
+
+
+
+
+#img4 {
+    width: 200px;
+    float: left;
+}
+#home4 {
+    border: 2px solid grey;
+    box-shadow: 1px 1px 1px grey;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    height: 150px;
+    background-color: rgba(153,153,153,0.10);
+}
+#content4 {
+    width: 400px;
+    float: left;
+    height: 150px;
+}
+#from4 {
+    width: 200px;
+    float: left;
+    font-size: 20px;
+    position: relative;
+    overflow: hidden;
+    height: 100px;
+    box-sizing: border-box;
+    padding-left: 90px;
+    padding-top: 10px;
+}
+#mau4{
+    color: orange;
+    font-size: 20px;
+}
+#mau44{
+    color: orange;
+}
+#view4{
+    color: floralwhite;
+    border-radius: 10%;
+    width: 70px;
+    text-align: center;
+    height: 30px;
+    margin-left: 680px;
+    margin-top: 100px;
+    background-color: orange;
+}
+
+#img5 {
+    width: 200px;
+    float: left;
+}
+#home5 {
+    border: 2px solid grey;
+    box-shadow: 1px 1px 1px grey;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    height: 150px;
+    background-color: rgba(153,153,153,0.10);
+}
+#content5 {
+    width: 400px;
+    float: left;
+    height: 150px;
+}
+#mau5{
+    color: orange;
+    font-size: 20px;
+}
+#mau55{
+    color: orange;
+}
+#view5{
+    color: floralwhite;
+    border-radius: 10%;
+    width: 70px;
+    text-align: center;
+    height: 30px;
+    margin-left: 680px;
+    margin-top: 100px;
+    background-color: orange;
+}
+#sold5 {
+    margin-top: 50px;
+    margin-left: 40px;
+    width: 110px;
+    float: left;
+    font-size: 20px;
+    height: 30px;
+    box-sizing: border-box;
+    background-color: rgba(208,57,9,0.84);
+    text-align: center;
+    color: floralwhite;
+    border-radius: 10%;
+}
