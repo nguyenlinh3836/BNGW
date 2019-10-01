@@ -7,7 +7,7 @@ body {
     float: left;
 }
 #home1 {
-    background-color:rgba(153,153,153,0.10);
+    background-color: rgba(153,153,153,0.10);
     border: 2px solid grey;
     box-shadow: 1px 1px 1px grey;
     width: 800px;
