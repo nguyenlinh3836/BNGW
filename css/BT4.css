@@ -45,13 +45,14 @@ body {
 }
 #view1{
     color: floralwhite;
-    border-radius: 10%;
+    border-radius: 4px;
     width: 70px;
     background-color: orange;
     text-align: center;
     height: 30px;
     margin-left: 680px;
     margin-top: 100px;
+
 }
 #discount1 {
     line-height: 50px;
@@ -109,7 +110,7 @@ body {
 }
 #view2{
     color: floralwhite;
-    border-radius: 10%;
+    border-radius: 4px;
     width: 70px;
     background-color: rgba(238,57,9,0.64);
     text-align: center;
@@ -162,7 +163,7 @@ body {
 }
 #view3{
     color: floralwhite;
-    border-radius: 10%;
+    border-radius: 4px;
     width: 70px;
     background-color: forestgreen;
     text-align: center;
@@ -227,7 +228,7 @@ body {
 }
 #view4{
     color: floralwhite;
-    border-radius: 10%;
+    border-radius: 4px;
     width: 70px;
     text-align: center;
     height: 30px;
@@ -264,7 +265,7 @@ body {
 }
 #view5{
     color: floralwhite;
-    border-radius: 10%;
+    border-radius: 4px;
     width: 70px;
     text-align: center;
     height: 30px;
@@ -283,5 +284,5 @@ body {
     background-color: rgba(208,57,9,0.84);
     text-align: center;
     color: floralwhite;
-    border-radius: 10%;
+    border-radius: 4px;
 }
