@@ -7,6 +7,7 @@ body {
     float: left;
 }
 #home1 {
+    background-color:rgba(153,153,153,0.10);
     border: 2px solid grey;
     box-shadow: 1px 1px 1px grey;
     width: 800px;
@@ -14,7 +15,6 @@ body {
     margin-right: auto;
     margin-bottom: 20px;
     height: 150px;
-    background-color: rgba(153,153,153,0.10);
 }
 #content1 {
     width: 400px;
