@@ -1,3 +1,9 @@
+#x {
+    text-align: right;
+    box-sizing: border-box;
+    font-size: 50px;
+}
+
 
 #box {
     height: 800px;
@@ -7,6 +13,8 @@
     border: 3px solid deepskyblue;
     font-family: 'Roboto', sans-serif;
     box-shadow: 15px 10px 0 #1B7B93;
+    color: #4F4F4F;
+
 
 }
 #box-left{
@@ -35,7 +43,7 @@ h1{
     width: 100%;
     line-height: 40px;
     float: left;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #4F4F4F ;
     box-sizing: border-box;
     margin-right: 20px;
     font-size: 15px;
@@ -63,12 +71,12 @@ label{
     margin-top: 20px;
     float: right;
     font-size: 20px;
-    background-color:#1993B8;
+    background-color:#1A94B9;
     color: white;
     width: 150px;
     border-radius: 20px;
     text-transform: uppercase;
-    border: 1px solid #1993B8;
+    border: 1px solid #1A94B9;
     height: 40px;
 }
 .btn:focus{
