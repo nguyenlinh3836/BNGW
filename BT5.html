@@ -106,7 +106,40 @@
     </div>
 </section>
 
+<script>
+    day=5;
+    hour=8;
+    min=29;
+    sec=0;
+    it = setInterval(function ()) {
+        if(sec == 0){
+            sec=59;
+            min--;
+        }
+        if (min==0) {
+            min=60;
+            hour--;
+        }
+        if (hour==0) {
+            hour=24;
+            day--;
+        }
+        console.log (day:hour:min:sec);
+        sec--;
+        if(min==0 && sec == 0){
+            console.log("00:00");
+            clearInterval(it);
+        }
+    },1000);
 
+
+
+
+
+
+
+    })
+</script>
 
 
 
