@@ -1,0 +1,159 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.body {
+    font-family: 'Roboto', sans-serif;
+
+}
+section,header {
+    float: left;
+    width: 100%;
+}
+.container {
+    width: 100%;
+}
+.section1 {
+    width: 20%;
+    float: left;
+}
+.section2 {
+    float: left;
+    width: 80%;
+    background-color: #F9F9F9;
+    height: 100%;
+
+}
+.content{
+    width: 100%;
+}
+.logo {
+    width: 20%;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.searchbar {
+    width: 50%;
+    float: left;
+}
+#bar {
+    width: 85%;
+    float: left;
+}
+#search {
+    width: 90%;
+    margin-top: 20px;
+    padding: 5px 0;
+    float: left;
+    font-size: 16px;
+    border: 1px solid #d9d9d9;
+    border-radius: 2px 0 0 2px;
+}
+#search-icon {
+    border: 1px solid #d9d9d9;
+    padding: 5px 0;
+    width: 65px;
+    box-sizing: border-box;
+    float: left;
+    margin-top: 20px;
+    height: 30px;
+    text-align: center;
+    border-radius: 0 2px 2px 0;
+    background-color:#F0F0F0;
+
+}
+.button-head {
+    width: 15%;
+    float: right;
+}
+.sidebar {
+    float: left;
+    width: 100%;
+    padding: 20px;
+}
+.option {
+    color: #606060;
+    border-top: 1px solid #eeeeee;
+    margin-top: 12px;
+    padding-top: 12px;
+    list-style: none;
+    line-height: 30px;
+    font-size: 18px;
+    font-family: Roboto, Arial, sans-serif;
+}
+.option li {
+    line-height: 35px;
+    width: 100%;
+}
+.option li a{
+    color: #606060;
+    width: 100%;
+    text-decoration: none;
+
+}
+
+.option li:hover {
+    background-color: #dbdbdb;
+    transition: 0.3s;
+}
+.option li i {
+    margin-right: 50px;
+    display: inline;
+}
+.content-right {
+    height: 100%;
+    width: 60% ;
+    float: left;
+    padding: 16px 24px;
+}
+.content-main {
+   width: 100%;
+   height: 100%;
+}
+.filter {
+    border-bottom: 1px solid #d9d9d9;
+}
+.desc {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding: 10px 0 ;
+    color: rgb(96,96,96);
+    margin-bottom: 20px;
+
+}
+.desc-img {
+    width: 40%;
+    float: left;
+}
+.desc-text {
+    width: 60%;
+    float: left;
+    height: 100%;
+    font-size: 14px;
+
+}
+.desc-info {
+    height: 40%;
+    line-height: 18px;
+    font-size: 13px;
+    color: rgb(96,96,96);
+}
+.desc-content {
+    color: rgb(96,96,96);
+    height: 50%;
+    line-height: 18px;
+    font-size: 13px;
+}
+h3 {
+    font-size: 18px;
+    line-height: 24px;
+
+}
+#btn-search {
+    height: 30px;
+    width: 65px;
+    margin-top: 20px;
+}

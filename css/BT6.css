@@ -37,7 +37,12 @@ h1 {
     font-size: 70px;
     font-weight: lighter;
 }
-h2{
+h2 {
     font-size: 30px;
     font-weight: lighter;
 }
+#city_seclect {
+    width: 50%;
+    color: #000000;
+}
+
